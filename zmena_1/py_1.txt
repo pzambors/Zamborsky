@@ -1,0 +1,11 @@
+import turtle
+import time
+
+delay = 0.1
+
+# Set up screen
+wn = turtle.Screen()
+wn.title("Snake Game")
+wn.bgcolor("Green")
+wn.setup(width=600, height=600)
+wn.tracer(0)  # Turn off screen update
