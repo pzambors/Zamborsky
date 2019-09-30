@@ -1,3 +1,6 @@
+zmena
+
+
 def go_up():
     head.direction = "up"
 
