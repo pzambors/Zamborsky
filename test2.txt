@@ -1,4 +1,6 @@
 Novy test :)
 
-Zmena local!
+Zmena locial!
 
+
+2* diff
