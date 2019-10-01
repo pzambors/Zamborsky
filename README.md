@@ -14,8 +14,6 @@ Testujeme Markdown syntax2
 uz len prazdnota
 
 ### Level3
-uz len prazdnota
-
-### vsade cierno
+uz len prazdnota a cierno
 
 
