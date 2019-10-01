@@ -1,8 +1,8 @@
 # Zamborsky
 Projekt v ramici skolenia DevOps
 
-## Level2.1
-Testujeme Markdown syntax
+## Level.1
+nova remote branch
 
 ### Level3
 uz len prazdnota
